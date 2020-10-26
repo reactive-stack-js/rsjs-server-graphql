@@ -1,6 +1,9 @@
 {
 	"name": "rsjs-server-graphql",
-	"version": "0.9",
+	"version": "0.9.0",
+	"engines": {
+		"node": ">=12"
+	},
 	"main": "rsgql.js",
 	"repository": "https://github.com/reactive-stack-js/rsjs-server-graphql.git",
 	"author": "Predrag Stojadinovic <predrag@stojadinovic.net>",
