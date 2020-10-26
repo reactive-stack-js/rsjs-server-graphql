@@ -1,0 +1,22 @@
+{
+	"name": "rsjs-server-graphql",
+	"version": "1.0.0",
+	"main": "rs.js",
+	"repository": "https://github.com/reactive-stack-js/rsjs-server-graphql.git",
+	"author": "Predrag Stojadinovic <predrag@stojadinovic.net>",
+	"license": "UNLICENSE",
+	"dependencies": {
+		"@types/lodash": "^4.14.149",
+		"lodash": "^4.17.15"
+	},
+	"devDependencies": {
+		"prettier": "^1.19.1",
+		"ts-node": "^8.5.4",
+		"tslint": "^5.20.1",
+		"tslint-config-prettier": "^1.18.0",
+		"tslint-etc": "^1.10.0",
+		"tslint-no-unused-expression-chai": "^0.1.4",
+		"typedoc": "^0.15.6",
+		"typescript": "^3.7.4"
+	}
+}
